@@ -1,0 +1,24 @@
+{
+  "minAppVersion": "1.0.0",
+  "limits": {
+    "freeDailyNew": 10,
+    "freeGrammarPerLevel": 5,
+    "freeSavedClips": 20,
+    "trialDays": 7,
+    "streakFreezeFree": 1,
+    "streakFreezePro": 3
+  },
+  "pricing": {
+    "monthly": 29000,
+    "yearly": 179000,
+    "founder": 329000,
+    "founderSeatsLeft": 1000
+  },
+  "flags": {
+    "smartShorts": true,
+    "filmAlbums": true,
+    "reverseTrial": true,
+    "paywallVariant": "A"
+  },
+  "notice": { "uz": "", "type": "info" }
+}
